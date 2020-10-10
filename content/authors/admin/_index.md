@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mikaela Berg
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master's of Science in Data Science and Analytics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Grand Valley State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Currently a masters student expecting to graduate in April of 2022. Bachelor's of Science obtined Arpil 2020 in Cell and Molecular Biology from Grand Valley State University. Currently I am working as a Graduate Assistant for Dr. Gregory Wolffe. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Genetics
+- Bioinformatics
+- Data management and curation 
 
 education:
   courses:
